@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *CareerOnBoard!*
 
 Submitted by: **Ahnaf Talukder**
 
@@ -34,9 +34,11 @@ Here's a walkthrough of implemented required features:
 
 Describe any challenges encountered while building the app.
 
+- Adding a button was harder that I thought. There are plenty of ways of adding a simple button that leads to another site, each with their pros and cons. Using a tags vs the <button> vs div. There are also concerns about accessibility with using different methods; I learned that using a div with onClick() isn't the best implementation for accessibility. I created a button component which handles this now. So, it won't be a problem in a future, hopefully.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Ahnaf Talukder]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
