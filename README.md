@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='./walkthrough' title='Video Walkthrough of career board' width='' alt='Video Walkthrough of career board' />
+<img src='./walkthrough.gif' title='Video Walkthrough of career board' width='' alt='Video Walkthrough of career board' />
 
 
 ## Notes
