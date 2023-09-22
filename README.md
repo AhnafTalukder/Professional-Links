@@ -1,26 +1,51 @@
-# WEB102 Project 1 - Career Showcase Board
+# Web Development Project 1 - *Name of App Here*
 
-Overview
-For this project, you will create an events or resources board for your community! Your board should have a unique purpose, such as displaying a list of scheduled games for a sports team or links to help users learn more about software engineering. On each card of your community board, you should display some information about the event or resource.
+Submitted by: **Ahnaf Talukder**
 
-🎯 Goals
-By the end of this assignment you will be able to...
+This web app: **I've created a board for students and professionals to share their career related profiles. A person can include their name, profession, interest, and goal. A card is dedicated to each person, which includes a button that leads to their Linkedin or other professional webpage. **
 
-Initialize a new React application with Vite (done)
-* [X] Create a functional React component 
-* [X] Define and pass props to components
-* [X] Apply CSS styling to React components 
+Time spent: **6** hours spent in total
 
-Required Features
-* [X] Create a unique theme for events or resources relevant to a specific community
--  Theme: I created a dashboard to post cards that link to a person's Linkedin. The cards provide a quick overview of the person's interests/skills.
+## Required Features
 
-* [X] Display at least 10 unique resources or events in a responsive card format 
--  I've provided 10 cards showcasing 10 different people.
+The following **required** functionality is completed:
 
-GIF Walkthrough: 
-<img src='./walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+- [X] **There is a unique theme for events or resources relevant to a specific community**
+- [X] **At least 10 unique resources or events are displayed in a responsive card format**
 
-Stretch Features
-* [X] Add buttons or links to a related resource on each card component
-* [X] Make the site responsive for both desktop and mobile formats
+The following **optional** features are implemented:
+
+- [X] Buttons or links to a related resources are on each card component
+- [X] The site is responsive for both desktop and mobile formats
+
+The following **additional** features are implemented:
+
+* [X] List anything else that you added to improve the site's functionality!
+* [X] I tried my best to create an immersive UI/UX.
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+
+<img src='./walkthrough' title='Video Walkthrough of career board' width='' alt='Video Walkthrough of career board' />
+
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [yyyy] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
