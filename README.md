@@ -19,7 +19,7 @@ Required Features
 -  I've provided 10 cards showcasing 10 different people.
 
 GIF Walkthrough: 
-<img src='./assets/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Stretch Features
 * [X]Add buttons or links to a related resource on each card component
