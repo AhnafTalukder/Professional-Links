@@ -34,7 +34,7 @@ Here's a walkthrough of implemented required features:
 
 Describe any challenges encountered while building the app.
 
-- Adding a button was harder that I thought. There are plenty of ways of adding a simple button that leads to another site, each with their pros and cons. Using a tags vs the <button> vs div. There are also concerns about accessibility with using different methods; I learned that using a div with onClick() isn't the best implementation for accessibility. I created a button component which handles this now. So, it won't be a problem in a future, hopefully.
+- Adding a button was harder that I thought. There are plenty of ways of adding a simple button that leads to another site, each with their pros and cons. Using a tags vs the button tag vs div. There are also concerns about accessibility with using different methods; I learned that using a div with onClick() isn't the best implementation for accessibility. I created a button component which handles this now. So, it won't be a problem in a future, hopefully.
 
 ## License
 
