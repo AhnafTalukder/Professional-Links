@@ -1,4 +1,5 @@
 # ProfessionalLinks*
+<img src='./walkthrough.gif' title='Video Walkthrough of career board' width='' alt='Video Walkthrough of career board' />
 
 Submitted by: **Ahnaf Talukder**
 
@@ -27,7 +28,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='./walkthrough.gif' title='Video Walkthrough of career board' width='' alt='Video Walkthrough of career board' />
 
 
 ## Notes
